@@ -1,0 +1,2 @@
+# Finance-Management-App-Fleet-Financial-Tracking-System-Profit-Expense-Monitoring-Android-Application
+The Finance Management App is a mobile-based financial tracking system designed specifically for fleet and trucking operations. The application provides a centralized dashboard to monitor profits, operational expenses, maintenance costs, and truck-wise financial performance with real-time monthly summaries.
